@@ -1,7 +1,7 @@
 opencollection: 1.0.0
 
 info:
-  name: demo
+  name: demo-collection
 bundled: false
 extensions:
   bruno:
